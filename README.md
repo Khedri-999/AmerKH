@@ -11,10 +11,7 @@
       - `🏫 school`: Higher School of Computer Science & Technology (ESTIN)  
     `💻 skills`:  
       - `🐍 Python`  
-      - `🤖 Machine Learning (Basics)`  
-      - `🧩 Problem Solving`  
-      - `🚀 Django / FastAPI`  
-      - `💡 Soft Skills`  
+      - `🧩 Problem Solving`    
     `💬 languages`:  
       - `🇬🇧 English (Professional)`  
       - `🇫🇷 French (Professional)`  
@@ -22,4 +19,3 @@
       - `🏔 Tamazight (Tachawit) (Native)`  
     `📱 social`:  
       - `🔗 LinkedIn`: [Amer Khedri](https://www.linkedin.com/in/amer-khedri-a2872b272)  
-    `💪 motto`: "Never Give Up"
